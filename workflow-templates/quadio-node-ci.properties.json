@@ -1,0 +1,13 @@
+{
+    "name": "Quadio Node.js CI Workflow",
+    "description": "Quadio Node.js CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Node"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
