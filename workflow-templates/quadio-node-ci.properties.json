@@ -3,7 +3,7 @@
     "description": "Quadio Node.js CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Node"
+        "TypeScript"
     ],
     "filePatterns": [
         "package.json$",
