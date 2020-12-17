@@ -1,7 +1,7 @@
 {
     "name": "Quadio Node.js CI Workflow",
     "description": "Quadio Node.js CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "quadio-icon",
     "categories": [
         "TypeScript"
     ]
